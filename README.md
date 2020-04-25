@@ -12,7 +12,7 @@ Previously, we saw how to make each individual instance of a class hold on to th
 ## Instructions
 
 1. Read through the tutorial, following along as you go.
-2. Once you've finished, make the tests in `spec/01_book_spec.rb` pass. Run only those tests by typing `learn spec/01_book_spec.rb` on your command line.
+2. Once you've finished, make the tests in `spec/01_book_spec.rb` pass. Run only those tests by typing `  ` on your command line.
 
 ## Tutorial
 
